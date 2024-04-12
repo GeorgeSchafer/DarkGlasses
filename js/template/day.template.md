@@ -28,7 +28,8 @@ Each day is separated into 3 periods.
     - Teacher, Ms. Phaedra
         - finds Ben to be too literal and focused on communicating ideas rather than feelings
     - Jill
-        - a fan/potential love interest who admires his creative writing
+        - a fan/potential love interest who admires his creative writing he is oblivious to
+        - he regards her as uninteresting
 - History
     - Student, Elizabeth
         - former honor student caught cheating by Ben the previous year and is convinced Ben narced on her.
@@ -40,7 +41,7 @@ Lunch will have an event of some sort, as lunch is an opportunity to have time a
 
 ## After School
 
-After school is devoted to a task or project. Some days after school may be devoted to homework if there is a heavy workload that day. Or spent in other ways.
+After school is devoted to a task or project. Some days after school may be devoted to homework if there is a heavy workload that day. Or spent in other ways. 
 
 
 
