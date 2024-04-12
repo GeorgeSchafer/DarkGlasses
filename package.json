@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "bulma": "^1.0.0"
+  },
+  "name": "darkglasses",
+  "version": "0.0.1",
+  "description": "DarkGlasses is a friendship simulator meant to you in the perspective of a person living with major-depressive disorder.",
+  "main": "js/index.mjs",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GeorgeSchafer/DarkGlasses.git"
+  },
+  "keywords": [
+    "depression",
+    "game",
+    "simulator",
+    "friendship",
+    "simulator"
+  ],
+  "author": "GeorgeSchafer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GeorgeSchafer/DarkGlasses/issues"
+  },
+  "homepage": "https://github.com/GeorgeSchafer/DarkGlasses#readme"
+}

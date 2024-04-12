@@ -20,3 +20,5 @@ import {
     Listener,
 } from './mod/vanilla.mjs'
 
+const page = document.querySelector('#page')
+
