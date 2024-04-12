@@ -13,29 +13,29 @@ Mr Illian draws a circle on the board and marks the lines of the unit circle wit
 Illian First, what is the distance from the center of the circle to any point on the circumference?
 
 ```
-Ben's hand shoots up excitedly, Jacob scowls. Mr Illian calls on another student.
+Thomas's hand shoots up excitedly, Jacob scowls. Mr Illian calls on another student.
 ```
 
-Jacob, to Ben
+Jacob, to Thomas
 Stop looking so eager. He doesn't have a treat for you.
 
-Ben
+Thomas
 
 Guess that means you had trouble with the homework?
 
-Jacob, to Ben
+Jacob, to Thomas
 
 At least I don't sleep with an anime love pillow. What's her name again?
 
 ```
-Ben scowls, and Jacob has a grin of satisfaction and Maria giggles behind them, it is ambiguous as to what she is laughing at. Ben raises his hand when Mr Illian finishes explaining the unit circle and filling in the missing proportions.
+Thomas scowls, and Jacob has a grin of satisfaction and Maria giggles behind them, it is ambiguous as to what she is laughing at. Thomas raises his hand when Mr Illian finishes explaining the unit circle and filling in the missing proportions.
 ```
 
 Mr Illian
 
-Ben. `He gestures off handedly.`
+Thomas. `He gestures off handedly.`
 
-Ben
+Thomas
 
   Why do we write the unit circle this way?
   With these numbers?
@@ -45,10 +45,10 @@ Mr Illian
 
 How would you write it?
 
-Ben
+Thomas
 
 I was looking at the circle last night and I realized something. 
-`Ben crosses out the existing fractions and replaces them with equal values with the common denominator of 12 from 0 to 23`
+`Thomas crosses out the existing fractions and replaces them with equal values with the common denominator of 12 from 0 to 23`
 I realized this is why we have 24 hours in a day
 the globe's longitudes are divided into radians.
 And it is much easier to remember.
@@ -56,7 +56,7 @@ And it is much easier to remember.
 ```
 Mr Illian blinks and stares at the board silently, doing calculations in his head.
 
-Ben looks nervous.
+Thomas looks nervous.
 ```
 
 Mr Illian
@@ -64,25 +64,25 @@ Mr Illian
 How have I not noticed this before?!
 
 ```
-Ben grins widely and is obviously smug.
+Thomas grins widely and is obviously smug.
 
 Cut to Jacob and Maria split on the screen, both scowling.
 ```
 
 Lunch
 ```
-Ben stands in line for lunch, waiting for his turn with lunch card in his hand. He appears to be standing in a group, but is not paying attention to the conversation. One of the members of the group is Jill, who frequently looks at Ben intently. 
+Thomas stands in line for lunch, waiting for his turn with lunch card in his hand. He appears to be standing in a group, but is not paying attention to the conversation. One of the members of the group is Jill, who frequently looks at Thomas intently. 
 ```
 
 Amedla
 
-... meant by that, do you Ben?
+... meant by that, do you Thomas?
 
 ```
-Ben is looking straight past her at Maria, who is wearing tight yoga pants and has an ample butt. She is bent over, reaching for her lunch card she dropped.
+Thomas is looking straight past her at Maria, who is wearing tight yoga pants and has an ample butt. She is bent over, reaching for her lunch card she dropped.
 ```
 
-Ben
+Thomas
 
 # choices
  a. "I agree."
@@ -90,19 +90,19 @@ Ben
  c. "Sounds good."
 
 ```
-Amelda scowls, visibly annoyed. She turns to another boy, but steals glances at Ben periodically. Finally, they get through the line. Amelda gives Ben a displeased look and walks away to find a spot away from Ben.
+Amelda scowls, visibly annoyed. She turns to another boy, but steals glances at Thomas periodically. Finally, they get through the line. Amelda gives Thomas a displeased look and walks away to find a spot away from Thomas.
 ```
 
 Amelda
 Bye then.
 
-Ben
+Thomas
 Yeah, see you later.
-`Ben finds his friends sitting close to the exit. The available seat faces toward the wall opposite a vending machine.`
+`Thomas finds his friends sitting close to the exit. The available seat faces toward the wall.`
 Hey guys.
 
 ```
-The group acknowledges Ben momentarily but resume their conversation about a video game. 
+The group acknowledges Thomas momentarily but resume their conversation about a video game. 
 ```
 
 Tony
@@ -115,7 +115,7 @@ Yeah, I had the sniper rifle out and didn't even have time to think. Then I no-s
 Tony
 `Tony drops the orange and makes an explosion gesture.` I couldn't believe it!
 
-Ben
+Thomas
 Choices:
 -a That's awesome!
 -b [remain silent]
@@ -131,9 +131,9 @@ Tony
 `Tony awaits expectantly for more information that doesn't come. He asks, confused`
 That's -- cool -- what else happens?
 
-Ben
+Thomas
 That's all. That's the game.
 
 ```
-Tony and Andrew exchange confused looks again. . There is a period of silence in the group as they each chew their food awkwardly. Ben looks from one to the other, but doesn't know what else to say. He stares at the wall behind his friends, a blank, white wall that appears featureless in the even light. Soon Tony and Andrew resume their conversation about the game they played together the night before.
+Tony and Andrew exchange confused looks again. . There is a period of silence in the group as they each chew their food awkwardly. Thomas looks from one to the other, but doesn't know what else to say. He stares at the wall behind his friends, a blank, white wall that appears featureless in the even light. Soon Tony and Andrew resume their conversation about the game they played together the night before.
 ```
