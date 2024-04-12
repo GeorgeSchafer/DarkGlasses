@@ -30,7 +30,7 @@ Mr Illian draws a circle on the board and marks the lines of the unit circle.
 Illian: First, what is the distance from the center of the circle to any point on the circumference?
 
 ```
-Ben's hand shoots up excitedly, Jacob scowls. Mr Illian calls on another student.
+Ben's hjs/day1/day1.mdand shoots up excitedly, Jacob scowls. Mr Illian calls on another student.
 ```
 
 |Jacob, to Ben:|
